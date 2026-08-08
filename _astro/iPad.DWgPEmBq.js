@@ -1,0 +1,1 @@
+import{t as e}from"./iPad.Cm6_-Jub.js";export{e as default};
